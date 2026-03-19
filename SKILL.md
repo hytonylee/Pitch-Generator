@@ -65,7 +65,7 @@ Return 3 variants, each targeted to the audience and aligned to the workshop str
      - Problem → Solution → Market → Business model → Traction (proof hierarchy) → GTM → Competition/alternatives → Team → Financials/metrics (only if the user has them) → Ask/next step
    - Include assumptions drivers if financials/market numbers are mentioned (avoid “hockey stick” without drivers).
 
-## Style rules (from the workshop)
+## Style rules
 - Clarity first: one sentence per core claim; define any necessary terms.
 - Specificity wins conviction: name customers (ideally by role/segment), and quantify benefits.
 - Contrast matters: explicitly name the alternative and why you’re better (additive vs displacement).
